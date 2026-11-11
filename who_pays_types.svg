@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 147" font-family="Lato, Arial, sans-serif" role="img" aria-label="In the typical city, the share of each kind of property whose bill falls or rises">
+<text x="0" y="17.0" font-size="13" font-weight="700" fill="#111111">Homes</text>
+<rect x="160" y="2" width="205.3" height="21" fill="#1A8E86"/>
+<rect x="365.3" y="2" width="114.7" height="21" fill="#D8432F"/>
+<rect x="364.3" y="2" width="2" height="21" fill="#F8F8F8"/>
+<text x="167" y="17.0" font-size="12.5" font-weight="900" fill="#FFFFFF">64% pay less</text>
+<text x="473" y="17.0" font-size="12.5" font-weight="900" fill="#FFFFFF" text-anchor="end">36% pay more</text>
+<text x="0" y="48.0" font-size="13" font-weight="700" fill="#111111">Apartment buildings</text>
+<rect x="160" y="33" width="197.4" height="21" fill="#1A8E86"/>
+<rect x="357.4" y="33" width="122.6" height="21" fill="#D8432F"/>
+<rect x="356.4" y="33" width="2" height="21" fill="#F8F8F8"/>
+<text x="167" y="48.0" font-size="12.5" font-weight="900" fill="#FFFFFF">62% pay less</text>
+<text x="473" y="48.0" font-size="12.5" font-weight="900" fill="#FFFFFF" text-anchor="end">38% pay more</text>
+<text x="0" y="79.0" font-size="13" font-weight="700" fill="#111111">Shops, offices, industry</text>
+<rect x="160" y="64" width="129.7" height="21" fill="#1A8E86"/>
+<rect x="289.7" y="64" width="190.3" height="21" fill="#D8432F"/>
+<rect x="288.7" y="64" width="2" height="21" fill="#F8F8F8"/>
+<text x="167" y="79.0" font-size="12.5" font-weight="900" fill="#FFFFFF">41% pay less</text>
+<text x="473" y="79.0" font-size="12.5" font-weight="900" fill="#FFFFFF" text-anchor="end">59% pay more</text>
+<text x="0" y="110.0" font-size="13" font-weight="700" fill="#111111">Vacant land</text>
+<rect x="160" y="95" width="0.2" height="21" fill="#1A8E86"/>
+<rect x="160.2" y="95" width="319.8" height="21" fill="#D8432F"/>
+<rect x="159.2" y="95" width="2" height="21" fill="#F8F8F8"/>
+<text x="473" y="110.0" font-size="12.5" font-weight="900" fill="#FFFFFF" text-anchor="end">>99% pay more</text>
+<text x="0" y="141.0" font-size="13" font-weight="700" fill="#111111">Surface parking</text>
+<rect x="160" y="126" width="5.0" height="21" fill="#1A8E86"/>
+<rect x="165.0" y="126" width="315.0" height="21" fill="#D8432F"/>
+<rect x="164.0" y="126" width="2" height="21" fill="#F8F8F8"/>
+<text x="473" y="141.0" font-size="12.5" font-weight="900" fill="#FFFFFF" text-anchor="end">98% pay more</text>
+</svg>

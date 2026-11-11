@@ -1,0 +1,107 @@
+{
+  "raw": {
+    "n_cities": 23,
+    "n_parcels": 1928960,
+    "cities_most_homes_less": 16,
+    "median_city_homes_less": 0.6417018402836401,
+    "median_city_home_change": -0.03620130409661866,
+    "cities_vacant_up": 23,
+    "median_city_vacant_change": 1.3149304475871424,
+    "min_city_vacant_pay_more": 0.8072463768115942,
+    "n_parking_cities": 11,
+    "cities_parking_up": 11,
+    "median_city_parking_change": 1.1444261808165153,
+    "cities_low_income_better": 14,
+    "median_rule_of_thumb_hit": 1.0,
+    "typical_homes_less": 0.6417018402836401,
+    "typical_apartments_less": 0.6168831168831169,
+    "typical_business_less": 0.405421686746988,
+    "typical_vacant_less": 0.0006905752921075737,
+    "typical_parking_less": 0.01567398119122257,
+    "homes_cities": 23,
+    "apartments_cities": 21,
+    "business_cities": 23,
+    "vacant_cities": 22,
+    "parking_cities": 11
+  },
+  "cities": {
+    "included": [
+      "Albuquerque",
+      "Baltimore",
+      "Bellingham",
+      "Bryan TX",
+      "Charlottesville",
+      "Cleveland",
+      "College Station",
+      "Fort Collins",
+      "Greeley",
+      "Highlands Ranch",
+      "Howard Co. MD",
+      "Newport News",
+      "Oak Forest IL",
+      "Philadelphia",
+      "Pueblo",
+      "Reading PA",
+      "Richmond",
+      "Roanoke",
+      "Rochester",
+      "Rockville",
+      "South Bend",
+      "St. Paul",
+      "Syracuse"
+    ],
+    "excluded": {
+      "allentown": "full land value tax, not a 4:1 split",
+      "princeton": "2:1 split",
+      "media": "under two thousand parcels",
+      "washington_dc": "model also merges DC's commercial and residential rates"
+    },
+    "source": "LVTShift analysis/data exports",
+    "built": "2026-11-10"
+  },
+  "fmt": {
+    "n_cities": "23",
+    "n_parcels_m": "1.9 million",
+    "cities_most_homes_less": "16",
+    "median_city_homes_less": "64%",
+    "cities_vacant_up": "23",
+    "median_city_vacant_change": "+131%",
+    "n_parking_cities": "11",
+    "cities_parking_up": "11",
+    "median_city_parking_change": "+114%",
+    "cities_low_income_better": "14",
+    "rule_of_thumb_hit": "100%",
+    "ratio_words": "four times"
+  },
+  "literature": {
+    "_source": "C:/projects/philly-lvt-housing-starts-forecast/analysis/audits/probes_2026-11-01/literature_notes.md (primary papers read in full, 2026-11-01)",
+    "bourassa1987": {
+      "units_gain": "+14%",
+      "rate_cut": "5%",
+      "place": "Pittsburgh",
+      "cite": "Bourassa (1987), Growth and Change 18(4), p. 53",
+      "note": "a 5 percent decrease in the improvement tax rate -> about a 14 percent increase in the number of new housing units (elasticity -2.79)",
+      "year": "1987"
+    },
+    "yang2014": {
+      "range": "6–8",
+      "cite": "Yang (2014), Lincoln Institute WP14ZY1, Table 3 and p. 8",
+      "note": "two-rate PA places: housing units +8.4 pp per decade (dummy model); +6.4 pp at the average differential (model 2)",
+      "year": "2014"
+    },
+    "plassmann_tideman2000": {
+      "per_mill": "+1.6%",
+      "towns_two": "15",
+      "towns_one": "204",
+      "cite": "Plassmann & Tideman (2000), J. Urban Economics 47, p. 29 of PDF",
+      "note": "1 mill of land-structure differential -> +1.58% total construction value (95% interval about 0.85-2.32%)",
+      "year": "2000"
+    },
+    "banzhaf_lavery2010": {
+      "range": "2–10",
+      "cite": "Banzhaf & Lavery (2010), J. Urban Economics 67(2), p. 12 (WP08HB1); dwelling size p. 10",
+      "note": "2 to 10 percentage point increase in the growth of the density of housing units in the first couple of decades; dwelling size unchanged",
+      "year": "2010"
+    }
+  }
+}
